@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**:mortar_board: ** Computer Science graduate from Rensselaer Polytechnic Institute
+:mortar_board: Computer Science graduate from Rensselaer Polytechnic Institute
 :open_book: Currantly studying DSA at CodePath Intermediate Technical Interview Prep (TIP 102) & Data Analytics at Coop Careers
 :briefcase: Interested in Full-Stack, Data Science, and Data Analytics
 

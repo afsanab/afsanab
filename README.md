@@ -4,7 +4,7 @@
 **afsanab/afsanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-:mortar_board: 
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**:mortar_board: ** Computer Science graduate from Rensselaer Polytechnic Institute
+:open_book: Currantly studying DSA at CodePath Intermediate Technical Interview Prep (TIP 102) & Data Analytics at Coop Careers
+:briefcase: Interested in Full-Stack, Data Science, and Data Analytics
+

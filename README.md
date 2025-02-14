@@ -9,9 +9,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 
 🔹 **Recent Achievement:**  
 🎉 Attended **DevFest Columbia** and co-created [JetGenie](https://github.com/afsanab/JetGenie), a travel planning web app!  
-
 ---
-
 ## 🛠 Tech Stack  
 
 **💻 Languages:**  

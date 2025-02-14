@@ -39,8 +39,6 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]() 
-[![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)]()  
-
 ---
 <!--
 ## 📌 Featured Projects  

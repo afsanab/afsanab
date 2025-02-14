@@ -61,7 +61,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 ### 🎬 [MovieMate](https://github.com/afsanab/MovieMate) - Personalized movie recommendation web app  
 - Integrated **TMDb API** for real-time movie data  
 - Built using **Flask, JavaScript, HTML/CSS**  
--->
+
 ---
 
 ## 📊 GitHub Stats  
@@ -70,7 +70,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
   <img src="https://github-readme-stats.vercel.app/api?username=afsanab&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanab&theme=radical" width="48%">
 </p>
-
+-->
 ---
 
 ## 📫 Connect with Me  

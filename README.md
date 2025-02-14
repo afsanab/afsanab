@@ -1,9 +1,5 @@
 # 🚀 Afsana Bhuiyan | Software Engineer & Data Enthusiast  
 
-🌎 **Bronx, NY** | 📧 [afsanab620@gmail.com](mailto:afsanab620@gmail.com) | 🔗 [Portfolio](https://afsanab.github.io/AfsanasPortfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/afsanabhuiyan/)  
-
----
-
 ## 👋 About Me  
 Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polytechnic Institute** with a passion for **full-stack development, data science, and analytics**. I enjoy building **interactive applications** and leveraging **data** to drive insights and innovation.  
 
@@ -78,6 +74,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afsanabhuiyan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/afsanab)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://afsanab.github.io/AfsanasPortfolio/)  
+[![Email](mailto:afsanab620@gmail.com)
 
 ---
 

@@ -34,8 +34,8 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]() 
----
 <!--
+---
 ## 📌 Featured Projects  
 
 ### ✈️ [JetGenie](https://github.com/afsanab/JetGenie) - AI-powered travel planning app  
@@ -66,8 +66,8 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
   <img src="https://github-readme-stats.vercel.app/api?username=afsanab&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanab&theme=radical" width="48%">
 </p>
--->
 ---
+-->
 
 ## 📫 Connect with Me  
 

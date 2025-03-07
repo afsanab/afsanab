@@ -4,7 +4,7 @@
 Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polytechnic Institute** with a passion for **full-stack development, data science, and analytics**. I enjoy building **interactive applications** and leveraging **data** to drive insights and innovation.  
 
 🔹 **Recent Achievement:**  
-🎉 Attended **DevFest Columbia** and co-created [JetGenie](https://github.com/afsanab/JetGenie), a travel planning web app!  
+🎉 Attended **DevFest Columbia** and co-created [JetGenie](https://github.com/afsanab/JetGenie), an AI travel planner!  
 
 ---
 ## 🛠 Tech Stack  

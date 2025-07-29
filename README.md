@@ -1,4 +1,4 @@
-# 🚀 Afsana Bhuiyan | Software Engineer & Data Enthusiast  
+# 🚀 Afsana Bhuiyan | Data Analyst 
 
 ## 👋 About Me  
 Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polytechnic Institute** with a passion for **full-stack development, data science, and analytics**. I am currently a **Data Analytics Fellow at COOP Careers**. I enjoy building **interactive applications** and leveraging **data** to drive insights and innovation.  
@@ -48,7 +48,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 - Built using **Flask, JavaScript, HTML/CSS**  
 
 ---
-
+-->
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -56,7 +56,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanab&theme=radical" width="48%">
 </p>
 ---
--->
+
 
 ## 📫 Connect with Me  
 

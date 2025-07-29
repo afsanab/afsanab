@@ -48,7 +48,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
 - Built using **Flask, JavaScript, HTML/CSS**  
 
 ---
--->
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -56,7 +56,7 @@ Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polyte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanab&theme=radical" width="48%">
 </p>
 ---
-
+-->
 
 ## 📫 Connect with Me  
 

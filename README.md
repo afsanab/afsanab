@@ -1,4 +1,4 @@
-# 🚀 Afsana Bhuiyan | Data Analyst 
+# 🚀 Afsana Bhuiyan
 
 ## 👋 About Me  
 Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics, leveraging Python, SQL, and visualization to explore data, identify patterns, and create tools that make information easier to understand and use. My experience spans from developing interactive web applications to producing clear, meaningful analyses. I’m motivated by curiosity, problem-solving, and the challenge of finding practical solutions. Outside of work, I enjoy reading, hiking, and trying new cafes.

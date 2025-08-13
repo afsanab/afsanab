@@ -1,7 +1,7 @@
 # 🚀 Afsana Bhuiyan | Data Analyst 
 
 ## 👋 About Me  
-Hi, I'm **Afsana Bhuiyan**, a **Computer Science graduate from Rensselaer Polytechnic Institute** with a passion for **full-stack development, data science, and analytics**. I am currently a **Data Analytics Fellow at COOP Careers**. I enjoy building **interactive applications** and leveraging **data** to drive insights and innovation.  
+Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics, leveraging Python, SQL, and visualization to explore data, identify patterns, and create tools that make information easier to understand and use. My experience spans from developing interactive web applications to producing clear, meaningful analyses. I’m motivated by curiosity, problem-solving, and the challenge of finding practical solutions. Outside of work, I enjoy reading, hiking, and trying new cafes.
 
 ---
 ## 🛠 Tech Stack  

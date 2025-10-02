@@ -44,16 +44,10 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 - Integrated **TMDb API** for real-time movie data  
 - Built using **Flask, JavaScript, HTML/CSS**  
 
----
----
--->
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+---
+-->
 
 
 ## 📫 Connect with Me  

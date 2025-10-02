@@ -16,7 +16,6 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=date_night)
 <!--
 **⚙️ Tools & Platforms:**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() 

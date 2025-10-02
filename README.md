@@ -63,4 +63,4 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://afsanab.github.io/AfsanasPortfolio/)  
 ---
 
-✨ **Profile README last updated: _8/13/25_**  
+✨ **Profile README last updated: _10/1/25_**  

@@ -15,6 +15,8 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=date_night)
 <!--
 **⚙️ Tools & Platforms:**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() 
@@ -44,10 +46,16 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 - Integrated **TMDb API** for real-time movie data  
 - Built using **Flask, JavaScript, HTML/CSS**  
 
-## 📊 GitHub Stats  
 
 ---
 -->
+## 📊 GitHub Stats  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afsanab&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afsanab&theme=aura_dark)
+
+
 
 
 ## 📫 Connect with Me  

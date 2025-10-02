@@ -45,15 +45,15 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 - Built using **Flask, JavaScript, HTML/CSS**  
 
 ---
-
+---
+-->
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afsanab&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsanab&theme=radical" width="48%">
 </p>
----
--->
+
 
 ## 📫 Connect with Me  
 

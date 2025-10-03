@@ -48,10 +48,9 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 ---
 -->
 ## 📊 GitHub Stats  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afsanab&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afsanab&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afsanab&theme=aura_dark)
 
 
 

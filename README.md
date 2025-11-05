@@ -1,8 +1,8 @@
 # 🚀 Afsana Bhuiyan
 
 ## 👋 About Me  
-Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics, leveraging Python, SQL, and visualization to explore data, identify patterns, and create tools that make information easier to understand and use. My experience spans from developing interactive web applications to producing clear, meaningful analyses. I’m motivated by curiosity, problem-solving, and the challenge of finding practical solutions. Outside of work, I enjoy reading, hiking, and trying new cafes.
-
+ Hi, I'm Afsana! I’m a software engineer with a strong focus on full-stack development and data analytics. I build interactive web applications using React, Node.js, and Flask, and leverage Python, SQL, and data visualization
+ to uncover patterns and create tools that make information intuitive and actionable. My experience spans both frontend and backend development—designing user-facing interfaces, building APIs, and integrating analytics that turn data into insight. I’m driven by curiosity, problem-solving, and the challenge of creating practical, meaningful solutions. Outside of work, I enjoy reading, hiking, and exploring new cafes.
 ## 🛠 Tech Stack  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() 
@@ -48,7 +48,6 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 - Integrated **TMDb API** for real-time movie data  
 - Built using **Flask, JavaScript, HTML/CSS**  
 
-
 ---
 -->
 ## 📊 GitHub Stats  
@@ -56,14 +55,10 @@ Hi, I'm Afsana! I’m a software engineer with a strong focus on data analytics,
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afsanab&theme=aura_dark)
 
-
-
-
 ## 📫 Connect with Me  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afsanabhuiyan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/afsanab) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://afsanab.github.io/AfsanasPortfolio/)  
 ---
 
-✨ **Profile README last updated: _10/1/25_**  
+✨ **Profile README last updated: _11/5/25_**  

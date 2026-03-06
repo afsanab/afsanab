@@ -5,8 +5,6 @@
  to uncover patterns and create tools that make information intuitive and actionable. My experience spans both frontend and backend development—designing user-facing interfaces, building APIs, and integrating analytics that turn data into insight. I’m driven by curiosity, problem-solving, and the challenge of creating practical, meaningful solutions. Outside of work, I enjoy reading, hiking, and exploring new cafes.
 ## 🛠 Tech Stack  
 
-![afsanab's GitHub Stats](https://readme-stats-github.pages.dev/api?username=afsanab&theme=dark)
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() 
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)]() 

@@ -1,7 +1,7 @@
 # Afsana Bhuiyan
 
 Hi, I'm Afsana! I'm a fullstack developer with a focus on backend development. 
-I'm driven by curiosity, problem-solving, and the challenge of creating practical useful software. Outside of work, I enjoy hiking, reading, learning new languages, and traveling.
+I'm driven by curiosity, problem-solving, and the challenge of creating practical and useful software. Outside of work, I enjoy hiking, reading, learning new languages, and traveling.
 
 ## Tech Stack  
 

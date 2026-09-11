@@ -1,8 +1,8 @@
 # Afsana Bhuiyan
 
-## About Me  
- Hi, I'm Afsana! I’m a fullstack developer with a strong focus on data. I build interactive web applications using React, Node.js, and Flask, and leverage Python and SQL
- to uncover patterns and create tools that make information intuitive and actionable. My experience spans both frontend and backend development—designing user-facing interfaces, building APIs, and integrating analytics that turn data into insight. I’m driven by curiosity, problem-solving, and the challenge of creating practical, meaningful solutions. Outside of work, I enjoy reading, hiking, and exploring new cafes.
+Hi, I'm Afsana! I'm a fullstack developer with a focus on backend development. 
+I'm driven by curiosity, problem-solving, and the challenge of creating practical useful software. Outside of work, I enjoy hiking, reading, learning new languages, and traveling.
+
 ## Tech Stack  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() 

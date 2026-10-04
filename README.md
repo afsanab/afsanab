@@ -14,10 +14,6 @@ I'm driven by curiosity, problem-solving, and the challenge of creating practica
 [![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
- 
-## GitHub Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afsanab&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afsanab&theme=aura_dark)
 
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afsanabhuiyan/) 

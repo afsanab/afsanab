@@ -20,5 +20,3 @@ I'm driven by curiosity, problem-solving, and the challenge of creating practica
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/afsanab) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://afsanab.github.io/AfsanasPortfolio/)  
 ---
-
-**Profile README last updated: _9/11/26_**

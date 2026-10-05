@@ -1,6 +1,11 @@
 # Hi, I'm Afsana
 
-Backend-focused software engineer in NYC. I've shipped a threat-detection platform to government customers and built [CareTrack](https://github.com/afsanab/careTrack), a clinical workflow app that's in production at a nursing home. **Open to full-time software engineering roles.**
+Backend-focused software engineer in NYC, currently freelancing and **open to full-time software engineering roles.**
+
+## Highlights
+
+- **[CareTrack](https://github.com/afsanab/careTrack)** (freelance): clinical workflow app for patient admissions and physician tasks, in production at a nursing home serving up to 100 residents. Built around HIPAA's technical safeguards with role-based access control, audit logging, and session timeouts. React, Express, PostgreSQL, Docker, Azure.
+- **Reagent** (private, Margin Research): one of four engineers who shipped v1 of a threat-detection platform to government customers in four months. I architected its FastAPI service and built a Celery/Redis pipeline that dispatched code-analysis jobs to microservices, with results in Elasticsearch and S3.
 
 ## Tech
 

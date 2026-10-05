@@ -1,22 +1,20 @@
-# Afsana Bhuiyan
+# Hi, I'm Afsana
 
-Hi, I'm Afsana! I'm a fullstack developer with a focus on backend development. 
-I'm driven by curiosity, problem-solving, and the challenge of creating practical software. Outside of work, I enjoy hiking, reading, learning new languages, and traveling.
+Backend-focused software engineer in NYC. I've shipped a threat-detection platform to government customers and built a clinical workflow app that's in production at a nursing home. **Open to full-time software engineering roles.**
 
-## Tech Stack  
+## What I've built
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()   
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge)]()
+- **[CareTrack](https://github.com/afsanab/careTrack)**: clinical workflow app for patient admissions and physician tasks, in production at a nursing home serving up to 100 residents. Built around HIPAA's technical safeguards with role-based access control, audit logging, and session timeouts. React, Express, PostgreSQL, Docker, Azure.
+- **Reagent** (private, Margin Research): one of three engineers who shipped v1 of a threat-detection platform in four months. I architected its FastAPI service and built a Celery/Redis pipeline that dispatched code-analysis jobs to microservices, with results in Elasticsearch and S3.
+- **[El Principito](https://github.com/afsanab/elprincipito)**: Spanish reading app with word lookup and saved vocabulary. ASP.NET Core API with EF Core and SQLite; React Native frontend in progress.
 
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afsanabhuiyan/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/afsanab) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://afsanab.github.io/AfsanasPortfolio/)  
----
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/afsanabhuiyan/) · [Portfolio](https://afsanab.github.io/AfsanasPortfolio/) · afsanab620@gmail.com
+
+Outside of code, I enjoy hiking, reading, traveling, and learning languages. El Principito started as a way to practice my Spanish.

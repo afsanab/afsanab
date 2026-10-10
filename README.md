@@ -1,4 +1,4 @@
-# Hi, I'm Afsana
+# Hello, I'm Afsana
 
 Backend-focused software engineer in NYC, currently freelancing and open to full-time software engineering roles.
 
